@@ -12,14 +12,14 @@ Android app developers can use this boilerplate as a starting point for developi
 * JDK 8 (or later)
 * Android SDK (api v23 or later)
 
-## Usage
+## Setup
 
 * Clone this repo using `git clone https://github.com/bigchaindb/android-boilerplate.git`.
 * Open this repo in Android Studio.
 * Build this project and Build apk.
 * Click Run app using any AVD (>= api 23)
 
-## How to use it?
+## Usage
 
 The boilerplate is based on the [Getting Started page on BigchainDB website](https://www.bigchaindb.com/developers/getstarted/). 
 
