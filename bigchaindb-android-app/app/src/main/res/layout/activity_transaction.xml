@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:background="#C3CCD5"
             android:padding="10dp"
-            android:text="Basic Android boilerplate app which wraps text in an asset and performs CREATE trasaction in BigchainDB. The stored transaction is then displayed below."
+            android:text="Basic Android boilerplate app which wraps text in an asset and performs CREATE transaction in BigchainDB. The stored transaction is then displayed below."
             android:textColor="#0B3B4A"
             android:textStyle="bold" />
 
